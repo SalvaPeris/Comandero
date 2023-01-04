@@ -1,0 +1,14 @@
+C:\Users\speris\source\repos\Comandero\Comandero\bin\Debug\netcoreapp3.1\Comandero.exe
+C:\Users\speris\source\repos\Comandero\Comandero\bin\Debug\netcoreapp3.1\Comandero.deps.json
+C:\Users\speris\source\repos\Comandero\Comandero\bin\Debug\netcoreapp3.1\Comandero.runtimeconfig.json
+C:\Users\speris\source\repos\Comandero\Comandero\bin\Debug\netcoreapp3.1\Comandero.runtimeconfig.dev.json
+C:\Users\speris\source\repos\Comandero\Comandero\bin\Debug\netcoreapp3.1\Comandero.dll
+C:\Users\speris\source\repos\Comandero\Comandero\bin\Debug\netcoreapp3.1\Comandero.pdb
+C:\Users\speris\source\repos\Comandero\Comandero\obj\Debug\netcoreapp3.1\Comandero.csproj.AssemblyReference.cache
+C:\Users\speris\source\repos\Comandero\Comandero\obj\Debug\netcoreapp3.1\Comandero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\speris\source\repos\Comandero\Comandero\obj\Debug\netcoreapp3.1\Comandero.AssemblyInfoInputs.cache
+C:\Users\speris\source\repos\Comandero\Comandero\obj\Debug\netcoreapp3.1\Comandero.AssemblyInfo.cs
+C:\Users\speris\source\repos\Comandero\Comandero\obj\Debug\netcoreapp3.1\Comandero.csproj.CoreCompileInputs.cache
+C:\Users\speris\source\repos\Comandero\Comandero\obj\Debug\netcoreapp3.1\Comandero.dll
+C:\Users\speris\source\repos\Comandero\Comandero\obj\Debug\netcoreapp3.1\Comandero.pdb
+C:\Users\speris\source\repos\Comandero\Comandero\obj\Debug\netcoreapp3.1\Comandero.genruntimeconfig.cache

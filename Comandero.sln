@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Comandero", "Comandero\Comandero.csproj", "{EFAB32FE-A51B-45B9-9914-E5270A7DA127}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFAB32FE-A51B-45B9-9914-E5270A7DA127}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFAB32FE-A51B-45B9-9914-E5270A7DA127}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFAB32FE-A51B-45B9-9914-E5270A7DA127}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFAB32FE-A51B-45B9-9914-E5270A7DA127}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A97C40C5-2B7F-4FFB-A760-CA46C4DBB6A6}
+	EndGlobalSection
+EndGlobal
